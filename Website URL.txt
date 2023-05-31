@@ -1,0 +1,1 @@
+http://newtest-env.eba-39ydjama.us-east-1.elasticbeanstalk.com/
